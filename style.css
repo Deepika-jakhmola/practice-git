@@ -1,0 +1,16 @@
+.container{
+    height: 50vh;
+    width: 20vw;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.inner{
+    height: 25vh;
+    width: 10vw;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 20px;
+}
