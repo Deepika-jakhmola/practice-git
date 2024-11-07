@@ -1,4 +1,4 @@
-.container{
+/* .container{
     height: 50vh;
     width: 20vw;
     background-color: blueviolet;
@@ -13,4 +13,14 @@
     background-color: aqua;
     text-align: center;
     border-radius: 20px;
+} */
+.img-holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 20vh;
+    width: 20vw;
+    border-radius: 25%;
 }
